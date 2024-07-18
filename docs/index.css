@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bree+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bree+Serif&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    font-style: normal;
+}
+div{
+    width: 100px;
+    margin: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+a{
+    color: #5271FF;
+}
+h1, h2{
+    font-weight: normal;
+}
+
+#congratulazioni{
+    color: red;
+    font-family: "Anton", sans-serif;
+    font-size: 28px;
+}
+#haiVinto{
+    font-family: "Bree Serif", serif;
+    font-size: 18px;
+}
+#caraA{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+}
+#ilP{
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
+    font-size: 14px;
+}
+#ul{
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+#perR{
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+}
+#cerAu{
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+}
